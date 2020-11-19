@@ -1,4 +1,6 @@
 # Roguelike in Rust
+[Demo](https://ctaylo21.github.io/rust_rogue/)
+
 This is a roguelike game following this [awesome tutorial](https://bfnightly.bracketproductions.com/chapter_0.html).
 
 ## Controls
